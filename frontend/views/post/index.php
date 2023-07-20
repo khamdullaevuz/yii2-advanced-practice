@@ -1,3 +1,1 @@
-<?php
-
-echo "Test";
+<h1>Posts</h1>
